@@ -1,8 +1,6 @@
-#User Stories
+# User Stories
 
-##Oppgave 1
-
-###Administrator
+## Oppgave 1
 
 1. As an administrator, I want to make questions for a course, so that a decision whether a students has passed or not can be made.
 
